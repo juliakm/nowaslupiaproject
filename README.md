@@ -1,1 +1,1 @@
-# nowaslupiaproject
+# Nowa Slupia Project
